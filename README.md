@@ -1,29 +1,11 @@
 == README
-create by knight.ding@gmail.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the test code of Ruby on Rails Tutorial.
+You can find this book at:
+* [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+* [*Ruby on Rails 教程*](http://railstutorial-china.org/)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Created by knight.ding@gmail.com
+
+
